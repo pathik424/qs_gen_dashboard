@@ -1,0 +1,158 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: linkedin-oauth\n"
+"POT-Creation-Date: 2015-12-20 17:17+0100\n"
+"PO-Revision-Date: 2015-07-10 12:27+0100\n"
+"Last-Translator: Eric Zeidan <k2klettern@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../linkedin-oauth\n"
+
+#: ../linkedin-oauth/lib/functions.php:10
+msgid "Logged"
+msgstr ""
+
+#: ../linkedin-oauth/lib/functions.php:67
+msgid "You are making a not valid call"
+msgstr ""
+
+#: ../linkedin-oauth/lib/functions.php:145
+msgid "Your Linkedin account doesn't match any user on this page"
+msgstr ""
+
+#: ../linkedin-oauth/lib/functions.php:161
+msgid "Error: No access token from Linkedin"
+msgstr ""
+
+#: ../linkedin-oauth/lib/widget.php:40
+msgid "Title"
+msgstr ""
+
+#: ../linkedin-oauth/lib/widget.php:44
+msgid "Description"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:38
+msgid "Hi there!  I'm just a plugin, not much I can do when called directly."
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:92
+msgid "Linkedin Oauth"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:118
+msgid "This will add a Text Login to your menu"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:149
+msgid "You are not authorized to view this page."
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:183
+msgid "settings saved."
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:187
+msgid "Error - Url does not seems to be correct."
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:192
+msgid "Linkedin Button with Oauth2"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:193
+msgid "by Eric Zeidan"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:194
+msgid ""
+"First at all, go to https://www.linkedin.com/secure/developer and create a "
+"new Application"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:195
+msgid ""
+"Then enter the id and secret codes from your Application bellow, and save "
+"the changes"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:199
+msgid "Client ID: "
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:203
+msgid "Client Secret: "
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:207
+msgid ""
+"Important: Make sure you have entered as authorized Url redirect, the "
+"following URI: "
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:211
+msgid "URL to redirect After Login: "
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:213
+msgid "If leaving blank will redirect to wp-admin page."
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:216
+msgid "Check to allow user registration "
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:221
+msgid ""
+"If allow user registration, a user will be created after login with "
+"Linkedin, if doesn\\t exists on the site."
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:222
+msgid ""
+"Linkedin user's thumbnails will be saved on uploads/avatars for your use"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:225
+msgid "Use Linkedin Name_Lastname as username: "
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:231
+msgid "If not checked it will use name_aleatoryhash."
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:237
+msgid "Shorcode use  [linkedinbtn]"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:239
+msgid ""
+"To put your button in a Widget use our Widget \"Linkedin Oauth Widget\", "
+"where you can add a Title and a Description to your Button"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:241
+msgid ""
+"To add the linkedin button directly to your php code, you can use "
+"do_shortcode('[linkedinbtn]');\twhatever you want to show it"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:243
+msgid "To add it as a shorcode, just add [linkedinbtn]"
+msgstr ""
+
+#: ../linkedin-oauth/linkedin_oauth.php:245
+msgid ""
+"In the menu page, you will get the metabox Linkedin Oauth, this box will "
+"allow you to set a Menu item for Login, who will shows also Logout link "
+"when a user is logged"
+msgstr ""
